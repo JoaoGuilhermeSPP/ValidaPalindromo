@@ -1,0 +1,14 @@
+C:\Users\Jg\Desktop\ControleDeProdução\VerificaPalindromo\VerificaPalindromo\bin\Debug\net8.0\VerificaPalindromo.exe
+C:\Users\Jg\Desktop\ControleDeProdução\VerificaPalindromo\VerificaPalindromo\bin\Debug\net8.0\VerificaPalindromo.deps.json
+C:\Users\Jg\Desktop\ControleDeProdução\VerificaPalindromo\VerificaPalindromo\bin\Debug\net8.0\VerificaPalindromo.runtimeconfig.json
+C:\Users\Jg\Desktop\ControleDeProdução\VerificaPalindromo\VerificaPalindromo\bin\Debug\net8.0\VerificaPalindromo.dll
+C:\Users\Jg\Desktop\ControleDeProdução\VerificaPalindromo\VerificaPalindromo\bin\Debug\net8.0\VerificaPalindromo.pdb
+C:\Users\Jg\Desktop\ControleDeProdução\VerificaPalindromo\VerificaPalindromo\obj\Debug\net8.0\VerificaPalindromo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jg\Desktop\ControleDeProdução\VerificaPalindromo\VerificaPalindromo\obj\Debug\net8.0\VerificaPalindromo.AssemblyInfoInputs.cache
+C:\Users\Jg\Desktop\ControleDeProdução\VerificaPalindromo\VerificaPalindromo\obj\Debug\net8.0\VerificaPalindromo.AssemblyInfo.cs
+C:\Users\Jg\Desktop\ControleDeProdução\VerificaPalindromo\VerificaPalindromo\obj\Debug\net8.0\VerificaPalindromo.csproj.CoreCompileInputs.cache
+C:\Users\Jg\Desktop\ControleDeProdução\VerificaPalindromo\VerificaPalindromo\obj\Debug\net8.0\VerificaPalindromo.dll
+C:\Users\Jg\Desktop\ControleDeProdução\VerificaPalindromo\VerificaPalindromo\obj\Debug\net8.0\refint\VerificaPalindromo.dll
+C:\Users\Jg\Desktop\ControleDeProdução\VerificaPalindromo\VerificaPalindromo\obj\Debug\net8.0\VerificaPalindromo.pdb
+C:\Users\Jg\Desktop\ControleDeProdução\VerificaPalindromo\VerificaPalindromo\obj\Debug\net8.0\VerificaPalindromo.genruntimeconfig.cache
+C:\Users\Jg\Desktop\ControleDeProdução\VerificaPalindromo\VerificaPalindromo\obj\Debug\net8.0\ref\VerificaPalindromo.dll
